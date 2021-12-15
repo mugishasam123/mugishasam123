@@ -1,4 +1,4 @@
-Hi there 👋
+##Hi there 👋
 
 - 🔭 I’m currently a full time student at Microverse Inc.
 - 🌱 I’m currently learning Full Stack Web Development (Ruby on Rails, React and Redux)
