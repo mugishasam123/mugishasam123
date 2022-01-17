@@ -13,7 +13,7 @@ ___
 
 |My github statistics|My languages|Streaks|
 |-|-|-|
-|[![mushasam's github stats](https://github-readme-stats.vercel.app/api?username=mugishasam123 -ceo&show_icons=true&theme=dark&hide_title=true)](https://github.com/mugishasam123)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mugishasam123 -ceo&show_icons=true&theme=dark&layout=compact&hide_title=true)](https://github.com/mugishasam123)|![descholar-ceo](https://github-readme-streak-stats.herokuapp.com/?user=mugishasam123-ceo&theme=dark)
+|[![mushasam's github stats](https://github-readme-stats.vercel.app/api?username=mugishasam123&show_icons=true&theme=dark&hide_title=true)](https://github.com/mugishasam123)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mugishasam123&show_icons=true&theme=dark&layout=compact&hide_title=true)](https://github.com/mugishasam123)|![descholar-ceo](https://github-readme-streak-stats.herokuapp.com/?user=mugishasam123&theme=dark)
 
 ### My last week work's statistics
 <!--START_SECTION:waka-->
