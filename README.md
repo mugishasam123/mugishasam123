@@ -1,6 +1,6 @@
 # :handshake: Hello! My name is Mugisha Samuel  🙇 I live in Rwanda 
 
-## I am a Software developer, and Mentor
+## I am a Software developer and Mentor
 ### About me
 I’m a full-stack web developer who enjoys working on difficult challenges to later improve my level of thinking. moreover that I like to guide and help young developers to 
 be focused and develop to a high level.last but not least I like making friends and chatting with them.
