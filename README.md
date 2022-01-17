@@ -8,7 +8,7 @@ be focused and develop to a high level.last but not least I like making friends 
 
 ### Connect with me:
 
-[![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/mugishasamuel42/) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/mugisha-samuel-55a905208/) [![Send me email](https://img.shields.io/badge/--gmail?label=Gmail&logo=Gmail&style=social)](https://descholar.netlify.app/) [![See my portfolio](https://img.shields.io/badge/--portfolio?label=Portfolio&logo=portfolio&style=social)](https://descholar.netlify.app/)
+[![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/mugishasamuel42/) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/mugisha-samuel-55a905208/) [![Send me email](https://img.shields.io/badge/--gmail?label=Gmail&logo=Gmail&style=social)](mail to:mugishasamuel400@gmail.com) [![See my portfolio](https://img.shields.io/badge/--portfolio?label=Portfolio&logo=portfolio&style=social)](https://descholar.netlify.app/)
 ___
 
 |My github statistics|My languages|Streaks|
