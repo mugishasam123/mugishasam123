@@ -1,10 +1,10 @@
-# :handshake: Hello! My name is Mugisha Samuel  :man: I live in Rwanda
+# :handshake: Hello! My name is Mugisha Samuel  🙇: I live in Rwanda 🇷🇼
 
 ## I am a Software developer, and Mentor
 ### About me
-I’m an engineer who has an avid and consistent growth mindset, who believes strongly in integrity, and who has ambitious goals of contributing to the community by offering solutions that utilize my skills of software engineering.
+I’m a full-stack web developer who enjoys working on difficult challenges to later improve my level of thinking. moreover that I like to guide and help young developers to 
+be focused and develop to a high level.last but not least I like making friends and chatting with them.
 
-My values are summarized in an accronym: `REGIC`. Reliability, Ethics, Growth Mindset, Integrity and Consistency!
 
 ### Connect with me:
 
@@ -13,17 +13,6 @@ ___
 
 |My github statistics|My languages|Streaks|
 |-|-|-|
-|[![mushasam's github stats](https://github-readme-stats.vercel.app/api?username=mugishasam123&show_icons=true&theme=dark&hide_title=true)](https://github.com/mugishasam123)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mugishasam123&show_icons=true&theme=dark&layout=compact&hide_title=true)](https://github.com/mugishasam123)|![descholar-ceo](https://github-readme-streak-stats.herokuapp.com/?user=mugishasam123&theme=dark)
+|[![mushasam's github stats](https://github-readme-stats.vercel.app/api?username=mugishasam123&show_icons=true&theme=dark&hide_title=true)](https://github.com/mugishasam123)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mugishasam123&show_icons=true&theme=dark&layout=compact&hide_title=true)](https://github.com/mugishasam123)|![mugishasam](https://github-readme-streak-stats.herokuapp.com/?user=mugishasam123&theme=dark)
 
-### My last week work's statistics
-<!--START_SECTION:waka-->
-```text
-Week: 09 January, 2022 - 15 January, 2022
 
-TypeScript   19 hrs 42 mins  ████████████████▒░░░░░░░░   65.73 % 
-GraphQL      4 hrs 6 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.70 % 
-JSON         1 hr 34 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
-Other        1 hr 28 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
-JavaScript   1 hr 11 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
-```
-<!--END_SECTION:waka-->
