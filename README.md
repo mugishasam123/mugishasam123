@@ -1,4 +1,4 @@
-# :handshake: Hello! My name is Mugisha Samuel  🙇: I live in Rwanda 🇷🇼
+# :handshake: Hello! My name is Mugisha Samuel  🙇 I live in Rwanda :rwanda:
 
 ## I am a Software developer, and Mentor
 ### About me
